@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/dev-mariana/randomNumbers/blob/main/src/assets/randomNumbers.png" width="350px" height="350px">
+  <img src="https://github.com/dev-mariana/randomNumbers/blob/main/src/assets/randomNumbers.png" width="350px" height="550px">
 </div>
 
 # <h2>Dependências - Dependencies</h2>
