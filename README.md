@@ -1,4 +1,4 @@
-# <h2>Random Numbers - Números aleatórios</h2>
+# <h2 align="center">Random Numbers - Números aleatórios</h2>
 
 <p>
   Aplicativo feito em React Native, no curso básico Criando Aplicações Móveis Multiplataforma da [Digital Innovation One](https://digitalinnovation.one/sign-in), 
@@ -8,6 +8,10 @@
   Application made in React Native, in the basic course Creating Multiplatform Mobile Applications from [Digital Innovation One](https://digitalinnovation.one/sign-in),
   where I learned basic concepts of this technology.
 </p>
+
+<div align="center">
+  <img src="https://github.com/dev-mariana/randomNumbers/blob/main/src/assets/randomNumbers.png" width="50%">
+</div>
 
 # <h2>Dependências - Dependencies</h2>
 
@@ -23,6 +27,7 @@
 2. Entre no diretório e instale as dependências `npm install`.
 
    Access the directory of project and install the dependencies `npm install`.
+   
    
 <p>
   Obs: Você precisa ter instalado no seu computador, o [Android Studio](https://developer.android.com/studio), 
