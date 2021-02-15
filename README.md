@@ -29,13 +29,10 @@
    Access the directory of project and install the dependencies `npm install`.
    
    
-<p>
   Obs: Você precisa ter instalado no seu computador, o [Android Studio](https://developer.android.com/studio), 
   o [Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) e o [Python 2](https://www.python.org/download/releases/2.0/), 
   e precisa configurar sua [variável de ambiente](https://docs.rocketseat.dev/ambiente-react-native/android).
-</p> 
-<p>
+  
   Note: You need to have [Android Studio](https://developer.android.com/studio), [Java JDK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
   and [Python 2](https://www.python.org/download/releases/2.0/) installed on your computer, 
   and you need to set your [environment variable](https://docs.rocketseat.dev/ambiente-react-native/android).
-</p>
